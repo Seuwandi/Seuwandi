@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Seuwandi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Seuwandi/Seuwandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi I'm Kanishka, I'm self-driven, organized and committed individual who is eager to be changed, with skills and knowledge in Information Technology, Networking and Administrative. 
+Dynamic and highly adaptive team player with excellent interpersonal, communication and negotiation skills. To obtain a position that will enable me to use strong Organizational skills, 
+educational background, ability to work well with People, very calm and patience person who is curious about new technological things as well as and keen to learn them.
